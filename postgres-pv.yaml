@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: postgres-pv
+spec:
+  capacity:
+    storage: 2Gi
+  volumeMode: Filesystem
+  storageClassName: ""
+  #  storageClassName: standard
+  accessModes:
+    - ReadWriteMany
+  csi:
+    driver: efs.csi.aws.com
+    volumeHandle: fs-09d500627ef28872f
+#    - ReadWriteOnce
+#  hostPath:
+#    path: /var/lib/postgresql/data
+#    type: DirectoryOrCreate
