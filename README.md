@@ -10,15 +10,15 @@ Docker-Kubernetes-FeingClient-SpringCloudKubernetes
 
 ![](images/msvc.gif)
 
-The microservices have two separate databases, and they communicate with each other by FeingClient
+The microservices have two separate databases, and they communicate with each other by FeingClient.
 
 ![](images/feingClient.gif)
 
-The persistent volume was used to save the data from the databases
+The persistent volume was used to save the data from the databases.
 
 ![](images/pv.gif)
 
-Spring Cloud Kubernetes was used to communicate with Kubernetes from Spring
+Spring Cloud Kubernetes was used to communicate with Kubernetes from Spring.
 
 ![](images/springCloud.gif)
 
