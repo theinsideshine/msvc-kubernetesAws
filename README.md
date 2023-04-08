@@ -23,7 +23,7 @@ Spring Cloud Kubernetes was used to communicate with Kubernetes from Spring.
 ![](images/springCloud.gif)
 
 Demo Deploy Minikube
-[![Deploy Minikube](images/deploy-minikube.gif)]()
+[![Deploy Minikube](images/deploy-minikube.gif)](https://www.youtube.com/watch?v=-uNC5yHD04Y)
 
 
 Demo Deploy aws-eks
