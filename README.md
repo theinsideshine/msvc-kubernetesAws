@@ -27,4 +27,4 @@ Demo Deploy Minikube
 
 
 Demo Deploy aws-eks
-[![Deploy Aws](images/deploy-aws.gif)](https://www.youtube.com/watch?v=gFxH9_qi6bU)
+[![Deploy Aws](images/deploy-aws.gif)](https://youtu.be/SdEZtH0GXwc)
